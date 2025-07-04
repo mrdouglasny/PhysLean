@@ -22,7 +22,7 @@ import Mathlib.MeasureTheory.Measure.CharacteristicFunction
 import Mathlib.Probability.Independence.Basic
 import Mathlib.Probability.Density
 
-import AxiomaticQFT.Basic
+import PhysLean.QFT.AxiomaticQFT.Basic
 
 /- These are the O-S axioms in the form given in Glimm and Jaffe, Quantum Physics -/
 
